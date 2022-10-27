@@ -5,7 +5,7 @@ iris flower classification data analytics || machine learning
 
 <a href="https://github.com/ritwikdalmia/databases-intermediate/pulls"><img src="https://img.shields.io/github/issues-pr/ritwikdalmia/databases-intermediate" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/ritwikdalmia/databases-intermediate/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ritwikdalmia/databases-intermediate?color=2b9348&style=flat&logo=github"></a>
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/ritwikdalmia/databases-intermediate/blob/master/LICENSE)
+<a href="https://github.com/ritwikdalmia/databases-intermediate/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ritwikdalmia/databases-intermediate?color=2b9348" alt="License Badge"/>
 
 
 </div>
